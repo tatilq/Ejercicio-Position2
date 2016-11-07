@@ -1,0 +1,31 @@
+/* Inserta tu CSS aqui */
+.rojo{
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	position: static;
+
+}
+.morado{
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	position: relative;
+	left: 50px;
+	top: 50px;
+
+
+}
+.amarillo{
+	width: 50px;
+	height: 50px;
+	background-color: black;
+	position: absolute;
+	top: 9.4px;
+
+}
+a{
+	text-decoration:none;
+	margin-left: 250px;
+
+}
